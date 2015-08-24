@@ -1,0 +1,24 @@
+{
+  "name": "bridge-php-node-s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pevika/bridge-php-node-s3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pevika/bridge-php-node-s3/issues"
+  },
+  "homepage": "https://github.com/Pevika/bridge-php-node-s3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1.46",
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+  }
+}
